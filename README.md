@@ -71,5 +71,18 @@ Each implementation is validated through targeted test cases:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-data-structures.git
-   cd java-data-structures
+   git clone https://github.com/Mustan-dev/java-data-structures-analysis
+   cd java-data-analysis 
+
+---
+
+## 📖 License
+
+This project is licensed under the [MIT License](LICENSE) and is intended for educational and portfolio use.
+
+---
+
+## 👨‍💻 Author
+
+**Mustan** – SWE4201 Student  
+GitHub: [github.com/Mustan-dev](https://github.com/Mustan-dev)  
