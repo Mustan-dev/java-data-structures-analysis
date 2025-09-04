@@ -1,7 +1,8 @@
 # ⚙️ Java Data Structures & Algorithmic Analysis
-![Java](https://img.shields.io/badge/Java-17+-yellow.svg)
+![Java](https://img.shields.io/badge/Java-17+-red.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 ## 📘 Project Overview
 
